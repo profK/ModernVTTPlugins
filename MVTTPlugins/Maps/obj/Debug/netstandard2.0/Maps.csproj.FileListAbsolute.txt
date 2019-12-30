@@ -1,0 +1,14 @@
+/home/jeffpk/workspaces/MVTTPlugins/Maps/bin/Debug/netstandard2.0/Maps.deps.json
+/home/jeffpk/workspaces/MVTTPlugins/Maps/bin/Debug/netstandard2.0/Maps.dll
+/home/jeffpk/workspaces/MVTTPlugins/Maps/bin/Debug/netstandard2.0/Maps.pdb
+/home/jeffpk/workspaces/MVTTPlugins/Maps/obj/Debug/netstandard2.0/Maps.csprojAssemblyReference.cache
+/home/jeffpk/workspaces/MVTTPlugins/Maps/obj/Debug/netstandard2.0/Maps.csproj.CoreCompileInputs.cache
+/home/jeffpk/workspaces/MVTTPlugins/Maps/obj/Debug/netstandard2.0/Maps.AssemblyInfoInputs.cache
+/home/jeffpk/workspaces/MVTTPlugins/Maps/obj/Debug/netstandard2.0/Maps.AssemblyInfo.cs
+/home/jeffpk/workspaces/MVTTPlugins/Maps/obj/Debug/netstandard2.0/Maps.dll
+/home/jeffpk/workspaces/MVTTPlugins/Maps/obj/Debug/netstandard2.0/Maps.pdb
+/home/jeffpk/workspaces/MVTTPlugins/Maps/bin/Debug/netstandard2.0/WWFramework.dll
+/home/jeffpk/workspaces/MVTTPlugins/Maps/obj/Debug/netstandard2.0/Maps.csproj.CopyComplete
+/home/jeffpk/workspaces/MVTTPlugins/Maps/bin/Debug/netstandard2.0/BuiltinInterfaces.dll
+/home/jeffpk/workspaces/MVTTPlugins/Maps/bin/Debug/netstandard2.0/UnityEngine.CoreModule.dll
+/home/jeffpk/workspaces/MVTTPlugins/Maps/bin/Debug/netstandard2.0/UnityEngine.SharedInternalsModule.dll

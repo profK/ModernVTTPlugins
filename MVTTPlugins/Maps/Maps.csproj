@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <MVTTDataPath>
+       \home\jeffpk\Unity\Projects\ModernVTT\Build\ModernVTT_Data
+    </MVTTDataPath>
+  </PropertyGroup>
+ 
+  <ItemGroup>
+    <Reference Include="WWFramework">
+      <HintPath>\home\jeffpk\Unity\Projects\ModernVTT\Build\ModernVTT_Data\Managed\WWFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="BultinInterfaces">
+      <HintPath>\home\jeffpk\Unity\Projects\ModernVTT\Build\ModernVTT_Data\Managed\BuiltinInterfaces.dll</HintPath>
+    </Reference>
+     <None Include="$(SolutionDir)config\**" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
